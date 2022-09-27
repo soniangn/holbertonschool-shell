@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type c d -empty
+find -R -type d -empty
