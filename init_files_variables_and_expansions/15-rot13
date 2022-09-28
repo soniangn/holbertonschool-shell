@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'AZ-az' 'NM-nm'
+tr 'AZ-az-NM-nm' 'NM-nm-AZ-az'
