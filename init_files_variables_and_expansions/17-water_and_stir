@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(printf f%$bestschol($WATER+$STIR)) 
+echo $((tr '$WATER' '01234') + (tr '$STIR' '01234')) | (tr '012345678' 'bestschol')
