@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-###Permissions
+### Permissions
 
 - What do the commands chmod, sudo, su, chown, chgrp do
 - Linux file permissions
@@ -12,7 +12,7 @@
 - How to run a command with root privileges
 - How to change user ID or become superuser
 
-###Other Man Pages
+### Other Man Pages
 - How to create a user
 - How to create a group
 - How to print real and effective user and group IDs
