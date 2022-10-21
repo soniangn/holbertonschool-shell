@@ -1,3 +1,8 @@
-#!/bin/bash 
-First script is the command giving the absolute path name
-
+# Learning Objectives
+- What is the Shell
+- Navigation
+- Looking around
+- Manipulating files
+- Working with commands
+- Reading man pages
+- Keyboard Shortcuts for Bash
