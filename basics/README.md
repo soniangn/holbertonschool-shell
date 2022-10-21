@@ -1,4 +1,6 @@
-# Learning Objectives
+# Shell Basics
+
+## Learning Objectives
 - What is the Shell
 - Navigation
 - Looking around
